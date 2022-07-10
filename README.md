@@ -14,7 +14,7 @@ This application is a CMS-style blog site similar to a Wordpress site, where dev
 
 open a terminal
 node.js needs to be installed prior to use
-clone the repo: https://github.com/NAli3107/MVC-Tech-Blog
+
 download npm JSON packages by entering npm i or npm install
 create a dotenv file
 enter npm start to start the server.js file which will then start API on localhost PORT 8000
