@@ -17,7 +17,7 @@ node.js needs to be installed prior to use
 
 download npm JSON packages by entering npm i or npm install
 create a dotenv file
-enter npm start to start the server.js file which will then start API on localhost PORT 8000
+
 Usage
 Users can access the deployed application on Heroku using the following link:
 
