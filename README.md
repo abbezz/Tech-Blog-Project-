@@ -21,6 +21,8 @@ create a dotenv file
 Usage
 Users can access the deployed application on Heroku using the following link:
 
+https://git.heroku.com/my-app-tech-project.git
 
 Examples
 Screenshot of Deployed App:
+
